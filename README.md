@@ -9,7 +9,7 @@ python3 main.py --help
 or a one-liner command.
 
 ```shell
-git clone https://github.com/mariosdaskalas/maccie & cd maccie & python3 main.py --help
+git clone https://github.com/mariosdaskalas/maccie && cd maccie && python3 main.py --help
 ```
 
 ```shell
